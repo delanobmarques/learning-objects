@@ -16,4 +16,4 @@ Inside the root directory run
 2 - `npm run postbuild`
 3 - `npm run dev`
 
-### After following the above instructions and running the app for the first time, to run the app only execute the 3rd item `npm run dev` 
+After following the above instructions and running the app for the first time, to run the app only execute the 3rd item `npm run dev` 
