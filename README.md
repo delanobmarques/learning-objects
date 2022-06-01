@@ -12,8 +12,8 @@ Built on the concepts covered in Client Side Programming by progressing into adv
 
 ## Running the app
 Inside the root directory run
-1 - `npm install`
-2 - `npm run postbuild`
-3 - `npm run dev`
+- `npm install`
+- `npm run postbuild`
+- `npm run dev`
 
 After following the above instructions and running the app for the first time, to run the app only execute the 3rd item `npm run dev` 
