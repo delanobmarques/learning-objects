@@ -10,8 +10,10 @@ Build on the concepts covered in Client Side Programming by progressing into adv
 4. Demonstrate effective testing of the multiple layers of a full stack application.
 5. Deploy a finished full stack web application to a public server.
 
-## Running the app for the 1st time
+## Running the app
 Inside the root directory run
 1 - `npm install`
 2 - `npm run postbuild`
 3 - `npm run dev`
+
+### After following the above instructions and running the app for the first time, to run the app only execute the 3rd item `npm run dev` 

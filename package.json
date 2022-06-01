@@ -7,7 +7,7 @@
     "client": "cd client && npm start",
     "dev": "concurrently --kill-others-on-fail \"npm run api\" \"npm run client\"",
     "start": "node ./bin/www",
-    "heroku-postbuild": "cd client && npm install && npm run build"
+    "postbuild": "cd client && npm install && npm run build"
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
